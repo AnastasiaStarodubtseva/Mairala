@@ -7,7 +7,7 @@ header {
 body{
   margin:0;
   background-color: #070503;
-  background-image: url("../img/vk_com_oboihd_11192.jpg");
+  background-image: url("../img/background.jpeg");
   overflow-x: hidden;
 }
 
@@ -16,6 +16,9 @@ body{
   width: 1230px;
 }
 
+div.content.download {
+  background-image: 
+} 
 .content ul {
   float: right;
   margin: 0;
